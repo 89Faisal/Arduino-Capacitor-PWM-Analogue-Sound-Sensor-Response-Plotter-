@@ -84,3 +84,5 @@ IoT signal analytics with environmental data integration
 **Summary**
 
 A hands-on exploration of capacitor dynamics, PWM control, and sound sensing — merging theory, experimentation, and real-time visualization for foundational learning and research in embedded electronics.
+
+https://www.youtube.com/watch?v=NtlVdNpRKkM
