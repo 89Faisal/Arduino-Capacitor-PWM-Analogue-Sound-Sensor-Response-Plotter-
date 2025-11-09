@@ -1,4 +1,5 @@
 **Capacitor Charging–Discharging Behavior with Arduino and Analog Sound Sensor**
+
 _Overview_
 
 This project demonstrates the PWM-controlled charging and discharging characteristics of a capacitor using Arduino, integrated with an analog sound sensor to capture real-time environmental signals. The setup visualizes the capacitor’s voltage response on the Arduino Serial Plotter, showing how PWM duty cycle and sound intensity influence the capacitor’s charging–discharging curve.
